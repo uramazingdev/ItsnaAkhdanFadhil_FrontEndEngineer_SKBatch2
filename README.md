@@ -41,7 +41,7 @@ my-app/
 ├── data/
 │   └── roles.ts             # Dataset mock pekerjaan (lowongan realistis)
 ├── types/
-│   └── role.ts              # Interface dan tipe data TypeScript (Role, Department, dll)
+│   └── role.ts              # Interface dan tipe data TypeScript (Role, Department, etc)
 └── package.json
 ```
 
